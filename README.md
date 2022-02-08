@@ -3,6 +3,8 @@
 
 See here all guanaco0403 creations
 
+Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJPwUUrJp)
+
 ## Table of Contents
 
 - [Mods Released](#Mods-Released)
