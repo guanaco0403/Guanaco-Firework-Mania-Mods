@@ -7,6 +7,8 @@ See here all guanaco0403 creations
 
 - [Mods Released](#Mods-Released)
 
+- [Mods In Development](#Mods-In-Development)
+
 # Mods Released:
 
 |                      [Hell Yeah Mod](https://fireworksmania.mod.io/hell-yeah-mod)                      | [Drivable Vehicle Mod](https://fireworksmania.mod.io/cars-drivable-vehicle-mod-beta) |
@@ -33,5 +35,5 @@ See here all guanaco0403 creations
 
 # Mods In Development:
 
-nothing to show for now
+nothing to show for now !
 
