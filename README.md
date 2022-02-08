@@ -9,7 +9,7 @@ See here all guanaco0403 creations
 
 - [Mods In Development](#Mods-In-Development)
 
-- [Something Wrong ?](#Something-Wrong?)
+- [Something Wrong ?](#Something-Wrong)
 
 ## Mods Released:
 
@@ -39,6 +39,6 @@ See here all guanaco0403 creations
 
 nothing to show for now !
 
-## Something Wrong?
+## Something Wrong
 
 If you have a question, a bug or if you have a request/suggestion the just [Create a issue](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/issues/new/choose)
