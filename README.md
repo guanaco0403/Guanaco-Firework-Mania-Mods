@@ -3,6 +3,10 @@
 
 See here all guanaco0403 creations
 
+## Table of Contents
+
+- [Mods Released](#Mods-Released)
+
 # Mods Released:
 
 |                      [Hell Yeah Mod](https://fireworksmania.mod.io/hell-yeah-mod)                      | [Drivable Vehicle Mod](https://fireworksmania.mod.io/cars-drivable-vehicle-mod-beta) |
