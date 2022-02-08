@@ -1,5 +1,6 @@
 # Guanaco-Firework-Mania-Mods
-See here all guanaco0403 creations ![Icon Logo](https://avatars.githubusercontent.com/u/76651037?s=48&v=4)
+![Icon Logo](https://avatars.githubusercontent.com/u/76651037?s=48&v=4)
+See here all guanaco0403 creations
 
 # Mods Released:
 
@@ -16,3 +17,8 @@ See here all guanaco0403 creations ![Icon Logo](https://avatars.githubuserconten
 [X-Mas Mod](https://fireworksmania.mod.io/x-mas-mod)
 
 [Saturn Shells Mod](https://fireworksmania.mod.io/saturn-shells-mod)
+
+# Mods In Development:
+
+nothing to show for now
+
