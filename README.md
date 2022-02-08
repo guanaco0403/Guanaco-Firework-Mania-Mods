@@ -18,7 +18,8 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 |                      [Hell Yeah Mod](https://fireworksmania.mod.io/hell-yeah-mod)                      | [Drivable Vehicle Mod](https://fireworksmania.mod.io/cars-drivable-vehicle-mod-beta) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![Logo](https://thumb.modcdn.io/mods/cab8/1470149/crop_320x180/the_hell_mod_thumbail.png) | ![Logo](https://thumb.modcdn.io/mods/482a/1690045/crop_320x180/baniere.1.png) |
-| a mod that adds lots of fireworks of all kinds as well as several props and is one of the most popular mods. | A mod that adds functional cars that you can drive in the game. |
+| a mod that adds lots of fireworks of all kinds as well as several props
+ and is one of the most popular mods. | A mod that adds functional cars that you can drive in the game. |
 
 |                      [On Stage Mod](https://fireworksmania.mod.io/on-stage-mod)                      | [Minecraft Map](https://fireworksmania.mod.io/minecraft-map-mod-beta) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
