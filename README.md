@@ -9,6 +9,8 @@ See here all guanaco0403 creations
 
 - [Mods In Development](#Mods-In-Development)
 
+- [Something Wrong ?](#Something-Wrong-?)
+
 ## Mods Released:
 
 |                      [Hell Yeah Mod](https://fireworksmania.mod.io/hell-yeah-mod)                      | [Drivable Vehicle Mod](https://fireworksmania.mod.io/cars-drivable-vehicle-mod-beta) |
@@ -37,3 +39,6 @@ See here all guanaco0403 creations
 
 nothing to show for now !
 
+## Something Wrong ?
+
+If you have a question, a bug or if you have a request/suggestion the just [Create a issue](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/issues/new/choose)
