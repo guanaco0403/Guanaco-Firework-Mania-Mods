@@ -11,7 +11,7 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 
 - [Mods In Development](#Mods-In-Development)
 
-- [Something Wrong ? Or you have a suggestion / a question ?](#Bug-Report-Question-Or-Suggestion)
+- [Something Wrong ? Or you have a suggestion / a question ?](#Bug-Report,-Question-Or-Suggestion)
 
 ## Mods Released:
 
@@ -41,6 +41,6 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 
 nothing to show for now !
 
-## Bug Report / Question Or Suggestion:
+## Bug Report, Question Or Suggestion:
 
 If you have a question, a bug or if you have a request/suggestion the just [Create a issue](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/issues/new/choose)
