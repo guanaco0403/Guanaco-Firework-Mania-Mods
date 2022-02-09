@@ -11,7 +11,7 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 
 - [Mods In Development](#Mods-In-Development)
 
-- [Something Wrong ? Or you have a suggestion / a question ?](#Bug-Report,-Question-Or-Suggestion)
+- [Something Wrong ? Or you have a suggestion / a question ?](#Bug-Report-Question-Or-Suggestion)
 
 ## Mods Released:
 
