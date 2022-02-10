@@ -39,7 +39,9 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 
 ## Mods In Development:
 
-nothing to show for now !
+Making some Changes on theses mods:
+[On Stage Mod](https://fireworksmania.mod.io/on-stage-mod)   
+[Drivable Vehicle Mod](https://fireworksmania.mod.io/cars-drivable-vehicle-mod-beta)
 
 ## Bug Report, Question Or Suggestion:
 
