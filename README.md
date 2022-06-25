@@ -44,6 +44,10 @@ Making some Changes on theses mods:
 - [On Stage Mod](https://fireworksmania.mod.io/on-stage-mod)
 - [Drivable Vehicle Mod](https://fireworksmania.mod.io/cars-drivable-vehicle-mod-beta)
 
+New Mods Comming Soon:
+
+- [Tomorrow Mania Map] ![Logo](https://thumb.modcdn.io/mods/6b28/1774423/crop_320x180/wildwest_banner.png)
+
 ## Bug Report, Question Or Suggestion:
 
 If you have a question, a bug or if you have a request/suggestion the just [Create a issue](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/issues/new/choose)
