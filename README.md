@@ -48,8 +48,8 @@ New Mods Comming Soon:
 
 |                      Tomorrow Mania Map                      |
 | :----------------------------------------------------------: |
-![Logo](https://thumb.modcdn.io/mods/6b28/1774423/crop_320x180/wildwest_banner.png)
-| Tomorrow land remake inside firework mania |
+![Logo](/Images/tomorrow_mania_preview.png)
+| Tomorrowland remake inside firework mania |
 
 ## Bug Report, Question Or Suggestion:
 
