@@ -46,7 +46,8 @@ Making some Changes on theses mods:
 
 New Mods Comming Soon:
 
-- [Tomorrow Mania Map] ![Logo](https://thumb.modcdn.io/mods/6b28/1774423/crop_320x180/wildwest_banner.png)
+- [Tomorrow Mania Map] 
+![Logo](https://thumb.modcdn.io/mods/6b28/1774423/crop_320x180/wildwest_banner.png)
 
 ## Bug Report, Question Or Suggestion:
 
