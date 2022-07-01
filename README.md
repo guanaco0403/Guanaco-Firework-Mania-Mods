@@ -30,10 +30,10 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 | ![Logo](https://thumb.modcdn.io/mods/6b28/1774423/crop_320x180/wildwest_banner.png) | ![Logo](https://thumb.modcdn.io/mods/8571/1655469/crop_320x180/x-mas_banner.png) |
 | a mod that allows you to load a custom map (Wild West) in the game. | this mod adds lots of christmas decorations (lights, sounds, trees, ...). |
 
-| [Saturn Shells Mod](https://fireworksmania.mod.io/saturn-shells-mod) | 
-| :----------------------------------------------------------: | 
-| ![Logo](https://thumb.modcdn.io/mods/601c/1671072/crop_320x180/banner.png) | 
-| A mod that adds lots of shells in the shape of the planet saturn in several colors |
+| [Saturn Shells Mod](https://fireworksmania.mod.io/saturn-shells-mod) | [Tomorrow Mania Map](https://fireworksmania.mod.io/tomorrow-mania-map) | 
+| :----------------------------------------------------------: | :----------------------------------------------------------:
+| ![Logo](https://thumb.modcdn.io/mods/601c/1671072/crop_320x180/banner.png) | ![Logo](https://thumb.modcdn.io/mods/8f66/2172224/crop_320x180/thumbail.png) |
+| A mod that adds lots of shells in the shape of the planet saturn in several colors | a remake of the festival called "Tomorrowland" but firework mania version |
 
 
 
@@ -43,13 +43,6 @@ Making some Changes on theses mods:
 
 - [On Stage Mod](https://fireworksmania.mod.io/on-stage-mod)
 - [Drivable Vehicle Mod](https://fireworksmania.mod.io/cars-drivable-vehicle-mod-beta)
-
-New Mods Comming Soon:
-
-|                      Tomorrow Mania Map                      |
-| :----------------------------------------------------------: |
-![Logo](/Images/tomorrow_mania_preview.png)
-| Tomorrowland remake inside firework mania |
 
 ## Bug Report, Question Or Suggestion:
 
