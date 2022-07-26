@@ -36,7 +36,7 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 | A mod that adds lots of shells in the shape of the planet saturn in several colors | a remake of the festival called "Tomorrowland" but firework mania version |
 
 | [Universal Firework Customizer]() |
-| :----------------------------------------------------------: | :----------------------------------------------------------:
+| :----------------------------------------------------------: |
 | ![Logo](https://thumb.modcdn.io/mods/f4b7/2208650/crop_320x180/banner.png) |
 | A Powerfull tool that can change every fireworks effect colors and that is saveable with the blueprint system |
 
