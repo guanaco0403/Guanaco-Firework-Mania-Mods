@@ -18,6 +18,8 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 
 ### • [Fireworks Mania Scripting Functions](#Fireworks-Mania-Scripting-Functions)
 
+### • [Starting a Script at Mod Start](#Starting-a-Script-at-Mod-Start)
+
 ### • [Bug Report, Question Or Suggestion](#Bug-Report-Question-Or-Suggestion)
 <br/>
 
@@ -266,6 +268,9 @@ public class Example_Player_Script : MonoBehaviour
     }
 }
 ```
+
+# Starting a Script at Mod Start:
+
 
 # Bug Report, Question Or Suggestion:
 
