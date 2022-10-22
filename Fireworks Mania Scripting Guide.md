@@ -99,13 +99,39 @@ And then the area where we see if our **script contains errors**.
 ### Now for the script itself,
 This part of the script allows to include references to other unity functions like "UnityEngine" which is the reference of any script used in a unity game.
 
-````
 ```C#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 ```
-````
+
+This part of the script is its "class" and it's a bit like this zone of definition as a "house", it means that everything that happens inside this "class", belongs to it.<br/>
+**IMPORTANT**, the class name must **ABSOLUTELY** be the same as the script file name.
+
+```C#
+public class ExampleScript : MonoBehaviour
+{
+
+}
+```
+
+This part of the script is a **"Start"** function and allows you to execute a sequence of script lines **ONLY once** and when the script is **started** (this is the area that we generally use to start the execution of ours script).
+
+```C#
+void Start()
+{
+
+}
+```
+
+This part of the script is an "Update" function and allows you to execute a series of script lines AT EACH FRAME of the game and is therefore quite practical to detect if something is happening in game with for example the keyboard.
+
+```C#
+void Update()
+{
+
+}
+```
 
 # Bug Report, Question Or Suggestion:
 
