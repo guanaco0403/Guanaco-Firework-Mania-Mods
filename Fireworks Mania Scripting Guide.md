@@ -10,11 +10,11 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 
 ## Table of Contents
 
-- ##[First Scripting Setup](#First-Scripting-Setup)
+## - [First Scripting Setup](#First-Scripting-Setup)
 
-- ##[Unity Scripting Basics](#Mods-In-Development)
+- [Unity Scripting Basics](#Mods-In-Development)
 
-- ##[Fireworks Mania Scripting Functions](#Bug-Report-Question-Or-Suggestion)
+- [Fireworks Mania Scripting Functions](#Bug-Report-Question-Or-Suggestion)
 
 ## First Scripting Setup:
 
