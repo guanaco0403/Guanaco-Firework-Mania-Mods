@@ -64,6 +64,7 @@ You can then close the window as well as **unity** and **unity hub** and then re
 **otherwise**, select it again.
 
 #### You can now [Start Scripting](#Starting-Scripting).
+<br/>
 
 # Starting Scripting:
 Before starting to create Scripts you must **create** a **"Scripts" folder** inside your mod folder next to other folders like **"Definitions"** or **"Prefabs"**.
@@ -79,8 +80,10 @@ You can now follow the getting started guide with [Unity scripting](https://gith
 ### IMPORTANT, to make the in-game script work, you need to associate it with a gameobject in a prefab like this:
 
 ![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/Unity4.png)
+<br/>
 
 # Unity Scripting Basics:
+<br/>
 
 # Bug Report, Question Or Suggestion:
 
