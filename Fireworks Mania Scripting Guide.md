@@ -31,7 +31,7 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 To start, you must have followed all the steps in order to configure unity for fireworks mania modding.<br/>
 You can find this guide by [clicking here](https://github.com/Laumania/FireworksMania.ModTools#getting-started).
 
-**IMPORTANT, MAKE SURE YOU CLOSED UNITY BEFORE GOING TO NEWXT STEP!!!**<br/>
+**IMPORTANT, MAKE SURE YOU CLOSED UNITY BEFORE GOING TO NEXT STEP!!!**<br/>
 After you have successfully completed each step to configure unity for modding, you can move on to **step 2**.
 
 ## Step 2
