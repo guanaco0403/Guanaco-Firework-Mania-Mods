@@ -124,7 +124,7 @@ void Start()
 }
 ```
 
-This part of the script is an "Update" function and allows you to execute a series of script lines AT EACH FRAME of the game and is therefore quite practical to detect if something is happening in game with for example the keyboard.
+This part of the script is an **"Update"** function and allows you to execute a series of script lines **AT EACH FRAME** of the game and is therefore quite practical to detect if something is happening in game with for example the keyboard.
 
 ```C#
 void Update()
@@ -132,6 +132,12 @@ void Update()
 
 }
 ```
+
+the **"{ }"** are used to **limit the area** where the lines of code of a function are **executed** (everything inside will be executed by the function and nothing outside).
+
+the **";"** are placed at **each end of line of code** to tell the script to go to the **next line** once this line has been **executed**, **they are MANDATORY!!!**
+
+the **"//"** are used to create **comments** in the script in order to find it, anything after the **"//"** on the same line will **not be executed**, it's just text.
 
 # Bug Report, Question Or Suggestion:
 
