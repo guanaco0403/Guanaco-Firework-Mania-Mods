@@ -37,10 +37,15 @@ You now need to install and configure the software that will allow you to create
 
 ![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/UnityHub2.png)
 
-**Then** click on "Add modules"
+**Then**, click on **"Add modules"**
 
 ![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/UnityHub3.png)
 
+**Then**, make sure that **"Microsoft Visual Studio Community 2019"** is installed, if not, select it and select **"Install"**.
+
+![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/UnityHub4.png)
+
+**Once all of this is done**, you can start Unity and move on to the **next step**
 
 # Bug Report, Question Or Suggestion:
 
