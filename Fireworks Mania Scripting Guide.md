@@ -32,6 +32,8 @@ You now need to install and configure the software that will allow you to create
 
 ![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/UnityHub1.png)
 
+**Then**, Click on the icon⚙️of the unity version used for modding (currently 2021.3.9f1)
+
 
 # Bug Report, Question Or Suggestion:
 
