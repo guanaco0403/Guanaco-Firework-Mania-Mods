@@ -18,11 +18,11 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 <br/>
 
 ## First Scripting Setup:
----
+
 ### Step 1
 To start, you must have followed all the steps in order to configure unity for fireworks mania modding.<br/>
 You can find this guide by [clicking here](https://github.com/Laumania/FireworksMania.ModTools#getting-started).
----
+
 
 
 
