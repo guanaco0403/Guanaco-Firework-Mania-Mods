@@ -143,6 +143,130 @@ the **"//"** are used to create **comments** in the script in order to find it, 
 
 #### For more information on how to get started with unity scripting, please go [here](https://unity.com/how-to/learning-c-sharp-unity-beginners).
 
+# Fireworks Mania Scripting Functions:
+
+**Fireworks Mania** has some functions of its own that can be used by the script to better interact for example with fireworks.
+I will not go too far in the explanations because it could last hours or even days but I will give examples.
+
+### Playing with Fuses
+
+```C#
+using FireworksMania.Core.Behaviors.Fireworks.Parts;
+using UnityEngine;
+
+public class Example_Fuse_Behavior : MonoBehaviour
+{
+    // Fireworks Mania Fuse Objects (Set it in the gameobject inspector of unity)
+    public Fuse FireworkFuse;
+
+    // Simple Variable that tells if the fuse is used
+    private bool isUsed = false;
+
+    // Update is called once per frame
+    private void Update()
+    {
+        if (FireworkFuse.IsUsed == true && isUsed == false)
+        {
+            isUsed = true;
+            // Execute something here ONE TIME when the Firework Is Used
+        }
+    }
+}
+```
+
+```C#
+using FireworksMania.Core.Behaviors.Fireworks.Parts;
+using UnityEngine;
+
+public class Example_Fuse_Behavior : MonoBehaviour
+{
+    // Fireworks Mania Fuse Objects (Set it in the gameobject inspector of unity)
+    public Fuse FireworkFuse;
+
+    // Simple Variable that tells if the fuse is used
+    private bool isIgnited = false;
+
+    // Update is called once per frame
+    private void Update()
+    {
+        if (FireworkFuse.IsIgnited == true && isIgnited == false)
+        {
+            isIgnited = true;
+            // Execute something here ONE TIME when the Firework Is Ignited
+        }
+    }
+}
+```
+
+```C#
+using FireworksMania.Core.Behaviors.Fireworks.Parts;
+using UnityEngine;
+
+public class Example_Fuse_Behavior : MonoBehaviour
+{
+    // Fireworks Mania Fuse Objects (Set it in the gameobject inspector of unity)
+    public Fuse FireworkFuse;
+
+    private void Start()
+    {
+        // Ignite the fuse at script start without using the lighter
+        FireworkFuse.IgniteInstant();
+    }
+}
+```
+
+```C#
+using FireworksMania.Core.Behaviors.Fireworks.Parts;
+using UnityEngine;
+
+public class Example_Fuse_Behavior : MonoBehaviour
+{
+    // Fireworks Mania Fuse Objects (Set it in the gameobject inspector of unity)
+    public Fuse FireworkFuse;
+
+    private void Start()
+    {
+        // Ignite the fuse at script start without using the lighter BUT WITHOUT FUSE TIME DELAY (Soo it directly launch the firework)
+        FireworkFuse.IgniteWithoutFuseTime();
+    }
+}
+```
+
+### Playing with Player Controls
+
+```C#
+using FireworksMania.Core.Messaging;
+using UnityEngine;
+
+public class Example_Player_Script : MonoBehaviour
+{
+    //basic variable that contains if the player is frozen or not
+    private bool Istriggered = false;
+    void Update()
+    {
+        // if the Y key is pressed and the player is not frozen
+        if (Input.GetKeyDown(KeyCode.Y) && Istriggered == false)
+        {
+            // Freeze the player and shows the mouse arrows (Useful to create UI)
+            Messenger.Broadcast<MessengerEventChangeUIMode>(new MessengerEventChangeUIMode(true, false));
+
+            // sets the variable as true (player frozen)
+            Istriggered = true;
+        }
+        
+        // else if the Y key is pressed and the player is frozen
+        else if (Input.GetKeyDown(KeyCode.Y) && Istriggered == true)
+        {
+            // UnFreeze the player and hide the mouse arrows (Useful to create UI)
+            Messenger.Broadcast<MessengerEventChangeUIMode>(new MessengerEventChangeUIMode(false, true));
+
+            // sets the variable as true (player Unfrozen)
+            Istriggered = false;
+        }
+    }
+}
+```
+
 # Bug Report, Question Or Suggestion:
 
 If you have a question, a bug or if you have a request/suggestion the just [Create a issue](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/issues/new/choose)
