@@ -59,7 +59,11 @@ You can then close the window as well as **unity** and **unity hub** and then re
 **once unity has started**, please make sure that visual studio is selected by returning to **"Edit" ➞ "Preferences" ➞ "External Tools"** as in the previous step,<br/>
 **otherwise**, select it again.
 
-#### You an now [Start Scripting](https://github.com/Laumania/FireworksMania.ModTools#getting-started).
+#### You can now [Start Scripting](#Starting-Scripting).
+
+# Starting Scripting:
+Before starting to create Scripts you must create a "Scripts" folder inside your mod folder next to other folders like "Definitions" or "Prefabs".<br/>
+### **IMPORTANT**, ALWAYS PUT THE SCRIPTS AT A MINIMUM INSIDE YOUR MOD FOLDER OTHERWISE IT WILL NOT BE TAKEN INTO ACCOUNT WHEN BUILDING THE MOD.
 
 # Bug Report, Question Or Suggestion:
 
