@@ -64,10 +64,17 @@ You can then close the window as well as **unity** and **unity hub** and then re
 #### You can now [Start Scripting](#Starting-Scripting).
 
 # Starting Scripting:
-Before starting to create Scripts you must create a "Scripts" folder inside your mod folder next to other folders like "Definitions" or "Prefabs".
+Before starting to create Scripts you must **create** a **"Scripts" folder** inside your mod folder next to other folders like **"Definitions"** or **"Prefabs"**.
 #### **IMPORTANT**, ALWAYS PUT THE SCRIPTS AT A MINIMUM INSIDE YOUR MOD FOLDER OTHERWISE IT WILL NOT BE TAKEN INTO ACCOUNT WHEN BUILDING THE MOD.
 
 ![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/Unity3.png)
+
+**To create a script**, it's quite simple, you just have to right click inside the **"Scripts"** folder and select **"Create" ➞ "C# Script"**.<br/>
+Then give it a **UNIQUE** name **(it is important that each script has a unique name)**, and you can then **double click** on it to open it in **visual studio 2019**.
+
+You can now follow the getting started guide with [Unity scripting](https://github.com/Laumania/FireworksMania.ModTools#getting-started).
+
+### IMPORTANT, to make the in-game script work, you need to associate it with a gameobject in a prefab like this:
 
 # Bug Report, Question Or Suggestion:
 
