@@ -12,9 +12,11 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 
 ### • [First Scripting Setup](#First-Scripting-Setup)
 
-### • [Unity Scripting Basics](#Mods-In-Development)
+### • [Starting Scripting](#Starting-Scripting)
 
-### • [Fireworks Mania Scripting Functions](#Bug-Report-Question-Or-Suggestion)
+### • [Unity Scripting Basics](#Unity-Scripting-Basics)
+
+### • [Fireworks Mania Scripting Functions](#Fireworks-Mania-Scripting-Functions)
 <br/>
 
 # First Scripting Setup:
@@ -77,6 +79,8 @@ You can now follow the getting started guide with [Unity scripting](https://gith
 ### IMPORTANT, to make the in-game script work, you need to associate it with a gameobject in a prefab like this:
 
 ![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/Unity4.png)
+
+# Unity Scripting Basics:
 
 # Bug Report, Question Or Suggestion:
 
