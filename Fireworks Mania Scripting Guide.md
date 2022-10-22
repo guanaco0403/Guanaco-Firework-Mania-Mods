@@ -55,6 +55,8 @@ to do this, **Start Unity** and go to **"Edit" ➞ "Preferences"**.
 
 **Then**, select **"External Tools"**, and then select **"Microsoft Visual Studio 2019"** from the **"External Script Editor"** list.
 
+![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/Unity2.png)
+
 You can then close the window as well as **unity** and **unity hub** and then reopen **unity hub** and then start **unity**.<br/>
 **once unity has started**, please make sure that visual studio is selected by returning to **"Edit" ➞ "Preferences" ➞ "External Tools"** as in the previous step,<br/>
 **otherwise**, select it again.
@@ -64,6 +66,8 @@ You can then close the window as well as **unity** and **unity hub** and then re
 # Starting Scripting:
 Before starting to create Scripts you must create a "Scripts" folder inside your mod folder next to other folders like "Definitions" or "Prefabs".
 #### **IMPORTANT**, ALWAYS PUT THE SCRIPTS AT A MINIMUM INSIDE YOUR MOD FOLDER OTHERWISE IT WILL NOT BE TAKEN INTO ACCOUNT WHEN BUILDING THE MOD.
+
+![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/Unity3.png)
 
 # Bug Report, Question Or Suggestion:
 
