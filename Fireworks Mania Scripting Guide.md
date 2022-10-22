@@ -47,11 +47,19 @@ You now need to install and configure the software that will allow you to create
 
 **Once all of this is done**, you can start Unity and move on to the **next step**.
 
-![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/Unity1.png)
-
 ## Step 3
 we will now configure **Visual Studio 2019** with **unity**.<br/>
 to do this, **Start Unity** and go to **"Edit" ➞ "Preferences"**.
+
+![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/Unity1.png)
+
+**Then**, select **"External Tools"**, and then select **"Microsoft Visual Studio 2019"** from the **"External Script Editor"** list.
+
+You can then close the window as well as **unity** and **unity hub** and then reopen **unity hub** and then start **unity**.<br/>
+**once unity has started**, please make sure that visual studio is selected by returning to **"Edit" ➞ "Preferences" ➞ "External Tools"** as in the previous step<br/>
+**otherwise**, select it again.
+
+####You an now [Start Scripting](https://github.com/Laumania/FireworksMania.ModTools#getting-started).
 
 # Bug Report, Question Or Suggestion:
 
