@@ -99,11 +99,13 @@ And then the area where we see if our **script contains errors**.
 ### Now for the script itself,
 This part of the script allows to include references to other unity functions like "UnityEngine" which is the reference of any script used in a unity game.
 
+````
 ```C#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 ```
+````
 
 # Bug Report, Question Or Suggestion:
 
