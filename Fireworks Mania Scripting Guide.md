@@ -76,6 +76,8 @@ You can now follow the getting started guide with [Unity scripting](https://gith
 
 ### IMPORTANT, to make the in-game script work, you need to associate it with a gameobject in a prefab like this:
 
+![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/Unity4.png)
+
 # Bug Report, Question Or Suggestion:
 
 If you have a question, a bug or if you have a request/suggestion the just [Create a issue](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/issues/new/choose)
