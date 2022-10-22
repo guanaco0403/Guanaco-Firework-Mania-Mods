@@ -6,7 +6,7 @@ Please Keep in mind that scripting is not easy for beginers.<br/>
 ---
 **Created by Guanaco0403**
 
-Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJPwUUrJp){:target="_blank"}
+Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJPwUUrJp)
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 
 ## First Scripting Setup:
 To start, you must have followed all the steps in order to configure unity for fireworks mania modding.<br/>
-You can find this guide by [clicking here](https://github.com/Laumania/FireworksMania.ModTools#getting-started){:target="_blank"}.
+You can find this guide by [clicking here](https://github.com/Laumania/FireworksMania.ModTools#getting-started)<a href="https://github.com/Laumania/FireworksMania.ModTools#getting-started" target="_blank">external link</a>.
 
 ## Bug Report, Question Or Suggestion:
 
