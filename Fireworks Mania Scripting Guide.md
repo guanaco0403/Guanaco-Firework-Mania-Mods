@@ -33,11 +33,11 @@ You now need to install and configure the software that will allow you to create
 
 ![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/UnityHub1.png)
 
-**Then**, Click on the⚙️icon of the unity version used for modding (currently 2021.3.9f1)
+**Then**, Click on the⚙️icon of the unity version used for modding (currently 2021.3.9f1).
 
 ![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/UnityHub2.png)
 
-**Then**, click on **"Add modules"**
+**Then**, click on **"Add modules"**.
 
 ![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/UnityHub3.png)
 
@@ -45,11 +45,13 @@ You now need to install and configure the software that will allow you to create
 
 ![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/UnityHub4.png)
 
-**Once all of this is done**, you can start Unity and move on to the **next step**
+**Once all of this is done**, you can start Unity and move on to the **next step**.
+
+![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/Unity1.png)
 
 ## Step 3
-we will now configure **Visual Studio 2019** with **unity**.
-to do this, **Start Unity** and go to **"Edit" --> "Preferences"**
+we will now configure **Visual Studio 2019** with **unity**.<br/>
+to do this, **Start Unity** and go to **"Edit" ➞ "Preferences"**.
 
 # Bug Report, Question Or Suggestion:
 
