@@ -29,6 +29,7 @@ After you have successfully completed each step to configure unity for modding, 
 You now need to install and configure the software that will allow you to create scripts and will also allow unity to compile them so that they can be recognized by the game.
 
 First, go to **Unity Hub** and click on **"Installs"** in the list on the left.
+![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/UnityHub1.png | width=100)
 
 
 # Bug Report, Question Or Suggestion:
