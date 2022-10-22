@@ -86,7 +86,7 @@ I will now explain the **BASIS** of scripting in **Unity**,<br/>
 
 ![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/VS1.png)
 
-There are two really important areas on this page,
+There are two really important areas on this page,<br/>
 First of all, the area where we will **write the lines of script**.
 
 ![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/VS2.png)
@@ -94,7 +94,9 @@ First of all, the area where we will **write the lines of script**.
 And then the area where we see if our **script contains errors**.
 
 ![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/VS3.png)
+<br/>
 
+### Now for the script itself,
 
 # Bug Report, Question Or Suggestion:
 
