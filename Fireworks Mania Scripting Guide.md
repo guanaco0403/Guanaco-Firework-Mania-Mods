@@ -56,10 +56,10 @@ to do this, **Start Unity** and go to **"Edit" ➞ "Preferences"**.
 **Then**, select **"External Tools"**, and then select **"Microsoft Visual Studio 2019"** from the **"External Script Editor"** list.
 
 You can then close the window as well as **unity** and **unity hub** and then reopen **unity hub** and then start **unity**.<br/>
-**once unity has started**, please make sure that visual studio is selected by returning to **"Edit" ➞ "Preferences" ➞ "External Tools"** as in the previous step<br/>
+**once unity has started**, please make sure that visual studio is selected by returning to **"Edit" ➞ "Preferences" ➞ "External Tools"** as in the previous step,<br/>
 **otherwise**, select it again.
 
-####You an now [Start Scripting](https://github.com/Laumania/FireworksMania.ModTools#getting-started).
+#### You an now [Start Scripting](https://github.com/Laumania/FireworksMania.ModTools#getting-started).
 
 # Bug Report, Question Or Suggestion:
 
