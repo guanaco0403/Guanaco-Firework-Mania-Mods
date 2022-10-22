@@ -18,7 +18,7 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 
 ### • [Fireworks Mania Scripting Functions](#Fireworks-Mania-Scripting-Functions)
 
-### • [Bug Report, Question Or Suggestion](#Bug-Report,-Question-Or-Suggestion)
+### • [Bug Report, Question Or Suggestion](#Bug-Report-Question-Or-Suggestion)
 <br/>
 
 # First Scripting Setup:
