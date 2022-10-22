@@ -63,7 +63,7 @@ You can then close the window as well as **unity** and **unity hub** and then re
 
 # Starting Scripting:
 Before starting to create Scripts you must create a "Scripts" folder inside your mod folder next to other folders like "Definitions" or "Prefabs".<br/>
-### **IMPORTANT**, ALWAYS PUT THE SCRIPTS AT A MINIMUM INSIDE YOUR MOD FOLDER OTHERWISE IT WILL NOT BE TAKEN INTO ACCOUNT WHEN BUILDING THE MOD.
+#### **IMPORTANT**, ALWAYS PUT THE SCRIPTS AT A MINIMUM INSIDE YOUR MOD FOLDER OTHERWISE IT WILL NOT BE TAKEN INTO ACCOUNT WHEN BUILDING THE MOD.
 
 # Bug Report, Question Or Suggestion:
 
