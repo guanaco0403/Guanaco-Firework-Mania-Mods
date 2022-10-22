@@ -47,6 +47,10 @@ You now need to install and configure the software that will allow you to create
 
 **Once all of this is done**, you can start Unity and move on to the **next step**
 
+## Step 3
+we will now configure **Visual Studio 2019** with **unity**.
+to do this, **Start Unity** and go to **"Edit" --> "Preferences"**
+
 # Bug Report, Question Or Suggestion:
 
 If you have a question, a bug or if you have a request/suggestion the just [Create a issue](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/issues/new/choose)
