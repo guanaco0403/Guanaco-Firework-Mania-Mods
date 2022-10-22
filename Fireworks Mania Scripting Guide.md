@@ -139,6 +139,8 @@ the **";"** are placed at **each end of line of code** to tell the script to go 
 
 the **"//"** are used to create **comments** in the script in order to find it, anything after the **"//"** on the same line will **not be executed**, it's just text.
 
+#### For more information on how to get started with unity scripting, please go [here](https://unity.com/how-to/learning-c-sharp-unity-beginners).
+
 # Bug Report, Question Or Suggestion:
 
 If you have a question, a bug or if you have a request/suggestion the just [Create a issue](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/issues/new/choose)
