@@ -1,4 +1,3 @@
-# Guanaco-Firework-Mania-Mods
 ![Icon Logo](https://avatars.githubusercontent.com/u/76651037?s=48&v=4)
 
 ---
@@ -11,13 +10,13 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 
 ## Table of Contents
 
-- [Mods Released](#Mods-Released)
+- [First Scripting Setup](#First-Scripting-Setup)
 
 - [Mods In Development](#Mods-In-Development)
 
 - [You found a Bug ? Or you have a suggestion / a question ?](#Bug-Report-Question-Or-Suggestion)
 
-## Mods Released:
+## First Scripting Setup:
 
 |                      [Hell Yeah Mod](https://fireworksmania.mod.io/hell-yeah-mod)                      | [Drivable Vehicle Mod](https://fireworksmania.mod.io/cars-drivable-vehicle-mod-beta) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
