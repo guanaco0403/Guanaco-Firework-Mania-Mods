@@ -23,9 +23,12 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 To start, you must have followed all the steps in order to configure unity for fireworks mania modding.<br/>
 You can find this guide by [clicking here](https://github.com/Laumania/FireworksMania.ModTools#getting-started).
 
-After you have successfully completed each step to configure unity for modding, you can move on to step 2
+After you have successfully completed each step to configure unity for modding, you can move on to **step 2**.
 
+## Step 2
+You now need to install and configure the software that will allow you to create scripts and will also allow unity to compile them so that they can be recognized by the game.
 
+First, go to **Unity Hub** and click on **"Installs"** in the list on the left.
 
 
 # Bug Report, Question Or Suggestion:
