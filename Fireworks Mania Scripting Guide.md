@@ -274,6 +274,7 @@ public class Example_Player_Script : MonoBehaviour
 # Starting a Script at Mod Start:
 In order to start your script automatically when your mod is loaded in game, you must use what is called a **"Startup Prefab Definition"** which will automatically load a Prefab in game in which your script will be associated.<br/>
 **You can follow the video tutorial below to find out how.**<br/>
+<br/>
 the **"Sort Order"** parameter is optional, it just allows you to load the **StartupPrefabs** of all the mods in a certain way (the higher the value, the more your script will be loaded last).<br/>
 
 https://user-images.githubusercontent.com/76651037/197382867-d12cee63-cdae-4249-bd5b-28c2adc6cb35.mp4
