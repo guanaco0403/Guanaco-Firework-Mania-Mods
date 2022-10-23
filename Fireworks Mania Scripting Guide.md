@@ -59,8 +59,8 @@ You now need to install and configure the software that will allow you to create
 **Once all of this is done**, you can start Unity and move on to the **next step**.
 
 ## Step 3
-we will now configure **Visual Studio 2019** with **unity**.<br/>
-to do this, **Start Unity** and go to **"Edit" ➞ "Preferences"**.
+We will now configure **Visual Studio 2019** with **unity**.<br/>
+To do this, **Start Unity** and go to **"Edit" ➞ "Preferences"**.
 
 ![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Images/Scripting-Guide/Unity1.png)
 
@@ -142,11 +142,11 @@ void Update()
 }
 ```
 
-the **"{ }"** are used to **limit the area** where the lines of code of a function are **executed** (everything inside will be executed by the function and nothing outside).
+The **"{ }"** are used to **limit the area** where the lines of code of a function are **executed** (everything inside will be executed by the function and nothing outside).
 
-the **";"** are placed at **each end of line of code** to tell the script to go to the **next line** once this line has been **executed**, **they are MANDATORY!!!**
+The **";"** are placed at **each end of line of code** to tell the script to go to the **next line** once this line has been **executed**, **they are MANDATORY!!!**
 
-the **"//"** are used to create **comments** in the script in order to find it, anything after the **"//"** on the same line will **not be executed**, it's just text.
+The **"//"** are used to create **comments** in the script in order to find it, anything after the **"//"** on the same line will **not be executed**, it's just text.
 
 #### For more information on how to get started with unity scripting, please go [here](https://unity.com/how-to/learning-c-sharp-unity-beginners).
 
