@@ -40,6 +40,11 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 | ![Logo](https://thumb.modcdn.io/mods/f4b7/2208650/crop_320x180/banner.png) | ![Logo](https://thumb.modcdn.io/mods/d0e6/2206066/crop_320x180/banner.1.png) |
 | A Powerfull tool that can change every fireworks effect colors and that is saveable with the blueprint system | A great highly detailed SuperMarket Map Made for Fireworks Mania with a lot of new features for the game |
 
+| [Ragdolls Mod](https://mod.io/g/fireworksmania/m/ragdolls-mod) | [The Pirate Shanty](https://mod.io/g/fireworksmania/m/the-pirate-shanty) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![Logo](https://thumb.modcdn.io/mods/4ba9/2388859/crop_320x180/banner.png) | ![Logo](https://thumb.modcdn.io/mods/2585/2379930/crop_320x180/pirateshantybanner.png) |
+| A Powerfull tool that can change every fireworks effect colors and that is saveable with the blueprint system | A great highly detailed SuperMarket Map Made for Fireworks Mania with a lot of new features for the game |
+
 
 
 ## Mods In Development:
