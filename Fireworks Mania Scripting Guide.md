@@ -80,7 +80,7 @@ Before starting to create Scripts you must **create** a **"Scripts" folder** ins
 **To create a script**, it's quite simple, you just have to right click inside the **"Scripts"** folder and select **"Create" ➞ "C# Script"**.<br/>
 Then give it a **UNIQUE** name **(it is important that each script has a unique name)**, and you can then **double click** on it to open it in **visual studio 2019**.
 
-You can now follow the getting started guide with [Unity scripting](https://github.com/Laumania/FireworksMania.ModTools#getting-started).
+You can now follow the getting started guide with [Unity scripting](#Unity-Scripting-Basics).
 
 ### IMPORTANT, to make the in-game script work, you need to associate it with a gameobject in a prefab like this:
 
