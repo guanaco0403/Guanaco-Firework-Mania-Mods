@@ -3,7 +3,9 @@
 Hello, This Guide will help you Starting Scripting Fireworks Mania mods in unity.<br/>
 Please Keep in mind that scripting is not easy for beginers.<br/>
 ---
-**Created by Guanaco0403** ![Icon Logo](https://avatars.githubusercontent.com/u/76651037?s=48&v=4)
+**Created by Guanaco0403** 
+
+![Icon Logo](https://avatars.githubusercontent.com/u/76651037?s=48&v=4)
 
 Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJPwUUrJp)
 
