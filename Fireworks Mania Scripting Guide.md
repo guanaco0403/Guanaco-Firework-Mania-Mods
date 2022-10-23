@@ -280,8 +280,8 @@ the **"Sort Order"** parameter is optional, it just allows you to load the **Sta
 https://user-images.githubusercontent.com/76651037/197382867-d12cee63-cdae-4249-bd5b-28c2adc6cb35.mp4
 
 # Troubleshooting
-you can use the "²" key next to the "1" key to open the in-game console, and from this console you can see any errors your script might have.<br/>
-If the errors are Critical, they will be displayed in Red and if they are not very serious, they will be displayed in Orange.<br/>
+You can use the **"²"** key next to the **"1"** key to open the in-game console, and from this console you can see any errors your script might have.<br/>
+If the errors are **Critical**, they will be displayed in **Red** and if they are **not very serious**, they will be displayed in **Orange**.<br/>
 <br/>
 ### Types of errors:
 - **NullReferenceException Error**
@@ -294,8 +294,8 @@ at Example.Start () [0x0000b] in /Unity/projects/nre/Assets/Example.cs:10
 ```
 - **Failed to locate linked type**
 
-This error usually appears when one of the scripts (in this case "ExampleScript") is missing or not found.<br/>
-To fix this error, please check that your script is inside a "Script" folder located next to other folders of this SAME MOD such as "Definitions" or "Prefabs".<br/>
+This error usually appears when one of the scripts (in this case "ExampleScript") is **missing or not found**.<br/>
+To fix this error, please check that your script is inside a **"Script"** folder located next to other folders of this **SAME MOD** such as **"Definitions"** or **"Prefabs"**.<br/>
 If this is the case and this does not solve your problem, go to **"Edit" ➞ "Preferences" ➞ "External Tools"** and check that **"Microsoft Visual Studio 2019"** is selected, if not if not, select it, then close the window and you can then **rebuild your mod**.<br/>
 
 **If "Microsoft Visual Studio 2019" is missing please go [here](#First-Scripting-Setup) and try to follow all the steps.**
