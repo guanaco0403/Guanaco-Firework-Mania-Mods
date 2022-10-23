@@ -297,6 +297,7 @@ at Example.Start () [0x0000b] in /Unity/projects/nre/Assets/Example.cs:10
 This error usually appears when one of the scripts (in this case "ExampleScript") is missing or not found.<br/>
 To fix this error, please check that your script is inside a "Script" folder located next to other folders of this SAME MOD such as "Definitions" or "Prefabs".<br/>
 If this is the case and this does not solve your problem, go to **"Edit" ➞ "Preferences" ➞ "External Tools"** and check that **"Microsoft Visual Studio 2019"** is selected, if not if not, select it, then close the window and you can then **rebuild your mod**.<br/>
+
 **If "Microsoft Visual Studio 2019" is missing please go [here](#First-Scripting-Setup) and try to follow all the steps.**
 
 ```
