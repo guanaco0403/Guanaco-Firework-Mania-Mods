@@ -273,7 +273,7 @@ public class Example_Player_Script : MonoBehaviour
 
 # Starting a Script at Mod Start:
 
-https://user-images.githubusercontent.com/76651037/197382359-74f2695a-7037-4bff-8dfa-24d4d4c8bb04.mp4
+https://user-images.githubusercontent.com/76651037/197382867-d12cee63-cdae-4249-bd5b-28c2adc6cb35.mp4
 
 # Troubleshooting
 
