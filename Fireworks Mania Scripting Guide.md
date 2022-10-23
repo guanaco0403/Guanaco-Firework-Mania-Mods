@@ -285,6 +285,8 @@ If the errors are Critical, they will be displayed in Red and if they are not ve
 <br/>
 ### Types of errors:
 - **NullReferenceException Error**
+This error usually appears when a **reference to a gameobject is missing**, this means that either you forgot to associate this gameobject on the script in your prefab or that the script did not find the gameobject you wanted in game.
+
 ```
 NullReferenceException: Object reference not set to an instance of an object
 at Example.Start () [0x0000b] in /Unity/projects/nre/Assets/Example.cs:10 
