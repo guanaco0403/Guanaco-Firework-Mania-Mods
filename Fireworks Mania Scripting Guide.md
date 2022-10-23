@@ -273,7 +273,7 @@ public class Example_Player_Script : MonoBehaviour
 
 # Starting a Script at Mod Start:
 
-![](https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Videos/StartupPrefab.mp4)
+https://github.com/guanaco0403/Guanaco-Firework-Mania-Mods/blob/main/Videos/StartupPrefab.mp4
 
 # Troubleshooting
 
