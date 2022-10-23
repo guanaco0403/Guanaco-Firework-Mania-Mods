@@ -43,11 +43,11 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 | [Ragdolls Mod](https://mod.io/g/fireworksmania/m/ragdolls-mod) | [The Pirate Shanty](https://mod.io/g/fireworksmania/m/the-pirate-shanty) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![Logo](https://thumb.modcdn.io/mods/4ba9/2388859/crop_320x180/banner.png) | ![Logo](https://thumb.modcdn.io/mods/2585/2379930/crop_320x180/pirateshantybanner.png) |
-| Because... Ragdolls Are FUN !!!, lets play with them. | A huge pirate map for firework mania !!! |
+| Because... Ragdolls Are FUN !!!, lets play with them, this mod adds ragdools to the game | A huge pirate map for firework mania !!! soo you can be a pirat |
 
 | [Better Fuse Connection Tool](https://mod.io/g/fireworksmania/m/better-fuse-connection-tool) | [Halloween Addon Mod](https://mod.io/g/fireworksmania/m/halloween-addon) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Logo](https://thumb.modcdn.io/mods/52ca/2389642/crop_320x180/fireworksmania09-10-2218_19.png) | ![Logo](https://thumb.modcdn.io/mods/52ca/2389642/crop_320x180/fireworksmania09-10-2218_19.png) |
+| ![Logo](https://thumb.modcdn.io/mods/52ca/2389642/crop_320x180/fireworksmania09-10-2218_19.png) | ![Logo](https://thumb.modcdn.io/mods/7eb8/2402090/crop_320x180/fireworksmania16-100000-2214.png) |
 | This mod can hide Fuse Connections when the connection tool is not in your hand. | This mods adds halloween decorations to some Default Maps |
 
 
