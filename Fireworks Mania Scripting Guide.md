@@ -283,7 +283,7 @@ https://user-images.githubusercontent.com/76651037/197382867-d12cee63-cdae-4249-
 you can use the "²" key next to the "1" key to open the in-game console, and from this console you can see any errors your script might have.<br/>
 If the errors are Critical, they will be displayed in Red and if they are not very serious, they will be displayed in Orange.<br/>
 <br/>
-Types of errors:<br/>
+### Types of errors:
 <br/>
 - **NullReferenceException Error**
 ```
