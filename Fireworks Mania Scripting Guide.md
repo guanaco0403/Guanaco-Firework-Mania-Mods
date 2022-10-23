@@ -284,7 +284,6 @@ you can use the "²" key next to the "1" key to open the in-game console, and fr
 If the errors are Critical, they will be displayed in Red and if they are not very serious, they will be displayed in Orange.<br/>
 <br/>
 ### Types of errors:
-<br/>
 - **NullReferenceException Error**
 ```
 NullReferenceException: Object reference not set to an instance of an object
