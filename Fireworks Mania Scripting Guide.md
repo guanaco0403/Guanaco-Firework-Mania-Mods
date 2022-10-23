@@ -280,6 +280,16 @@ the **"Sort Order"** parameter is optional, it just allows you to load the **Sta
 https://user-images.githubusercontent.com/76651037/197382867-d12cee63-cdae-4249-bd5b-28c2adc6cb35.mp4
 
 # Troubleshooting
+you can use the "²" key next to the "1" key to open the in-game console, and from this console you can see any errors your script might have.<br/>
+If the errors are Critical, they will be displayed in Red and if they are not very serious, they will be displayed in Orange.<br/>
+<br/>
+Types of errors:<br/>
+<br/>
+- **NullReferenceException Error**
+```
+NullReferenceException: Object reference not set to an instance of an object
+at Example.Start () [0x0000b] in /Unity/projects/nre/Assets/Example.cs:10 
+```
 
 # Bug Report, Question Or Suggestion:
 
