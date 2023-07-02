@@ -2,11 +2,16 @@
 <html>
 <head>
     <title>Hello, World!</title>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="script.js"></script>
 </head>
 <body>
     <h1>Hello, World!</h1>
-    <p id="textPlaceholder"></p>
+    
+    <?php
+    // Check if the request has a parameter named 'text'
+    if (isset($_GET['text'])) {
+        $text = $_GET['text'];
+        echo "<p>Received text: $text</p>";
+    }
+    ?>
 </body>
 </html>
