@@ -14,7 +14,7 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 - [You found a Bug ? Or you have a suggestion / a question ?](#Bug-Report-Question-Or-Suggestion)
 
 ## Mods Released:
-[Check my created mods here](https://mod.io/u/guanaco0403/).
+[Check my created mods here](https://mod.io/u/guanaco0403/).<a href="https://mod.io/u/guanaco0403/" target="_blank">here</a>.
 
 ## Mods In Development:
 
