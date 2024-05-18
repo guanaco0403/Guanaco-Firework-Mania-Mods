@@ -4,6 +4,7 @@
 See here all guanaco0403 creations
 
 Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJPwUUrJp)
+And the [Guanaco Dedicated Servers Discord](https://discord.gg/YuAZMU66Yz)
 
 ## Table of Contents
 
