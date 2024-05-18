@@ -50,13 +50,17 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 | ![Logo](https://thumb.modcdn.io/mods/52ca/2389642/crop_320x180/fireworksmania09-10-2218_19.png) | ![Logo](https://thumb.modcdn.io/mods/7eb8/2402090/crop_320x180/fireworksmania16-100000-2214.png) |
 | This mod can hide Fuse Connections when the connection tool is not in your hand. | This mods adds halloween decorations to some Default Maps |
 
+| [Christmas Addon](https://mod.io/g/fireworksmania/m/christmas-addon) | [Better Graphics Mod](https://mod.io/g/fireworksmania/m/better-graphics-mod) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![Logo](https://thumb.modcdn.io/mods/0587/2524136/crop_320x180/fireworksmania21-11-2216_55.0.png) | ![Logo](https://thumb.modcdn.io/mods/4376/2596168/crop_320x180/bettergraphmod.png) |
+| Let it snow on the town map and lets call santa, this mod add basicaly christmas decorations for the town map and also a cool quest (finding hidden gifts) to unlock santa !!! | Adds insane grahics and better graphic settings to fireworks mania |
 
 
 ## Mods In Development:
 
 Making some Changes on theses mods:
 
-- Working on Multiplayer
+- Working on Multiplayer Mods and Support right now
 
 ## Bug Report, Question Or Suggestion:
 
