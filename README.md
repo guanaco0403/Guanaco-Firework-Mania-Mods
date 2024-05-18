@@ -55,6 +55,9 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 | ![Logo](https://thumb.modcdn.io/mods/0587/2524136/crop_320x180/fireworksmania21-11-2216_55.0.png) | ![Logo](https://thumb.modcdn.io/mods/4376/2596168/crop_320x180/bettergraphmod.png) |
 | Let it snow on the town map and lets call santa, this mod add basicaly christmas decorations for the town map and also a cool quest (finding hidden gifts) to unlock santa !!! | Adds insane grahics and better graphic settings to fireworks mania |
 
+# My Mods
+
+<iframe src="mods_grid.html" width="100%" height="600px"></iframe>
 
 ## Mods In Development:
 
