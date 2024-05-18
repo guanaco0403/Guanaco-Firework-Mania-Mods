@@ -57,7 +57,7 @@ Don't forget to join the [firework mania Discord Server](https://discord.gg/6TJP
 
 # My Mods
 
-<iframe src="mods_grid.html" width="100%" height="600px"></iframe>
+[Check my mods here](mods_grid.html).
 
 ## Mods In Development:
 
