@@ -32,3 +32,5 @@ jobs:
         git add mods_grid.html
         git commit -m 'Auto-generate mods grid HTML'
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
