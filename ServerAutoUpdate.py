@@ -68,9 +68,9 @@ def main(github_token):
                     print(f'Found asset: {asset.name}')
                     download_asset(asset, asset.name, github_token)
                     extract_zip(asset.name)
-                    print("\u001B[32m=========================================")
-                    print("  Dedicated Server Successfully Updated")
-                    print("=========================================\u001B[0m")
+                    print("\u001B[32m=================================================\u001B[0m")
+                    print("  \u001B[36mFireworks Mania Server Successfully Installed\u001B[0m"")
+                    print("\u001B[32m=================================================\u001B[0m")
                     return
         print("\u001B[31mNo matching asset found.\u001B[0m")
 
