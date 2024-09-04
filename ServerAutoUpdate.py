@@ -22,7 +22,7 @@ def download_asset(asset, asset_name, github_token):
             for chunk in response.iter_content(chunk_size=1024):
                 if chunk:
                     file.write(chunk)
-        print("u001B[32mDownload Success\u001B[0m")
+        print("\u001B[32mDownload Success\u001B[0m")
     else:
         print(f'\u001B[31mFailed to download asset: {response.status_code}\u001B[0m')
         print(response.text)
@@ -32,7 +32,7 @@ def extract_zip(file_path):
     with zipfile.ZipFile(file_path, 'r') as zip_ref:
         extract_path = os.path.dirname(os.path.abspath(__file__))
         zip_ref.extractall(extract_path)
-        print("u001B[32mExtraction Success\u001B[0m")
+        print("\u001B[32mExtraction Success\u001B[0m")
         print(f'Extracted files to: {extract_path}')
 
 def main(github_token):
@@ -68,9 +68,9 @@ def main(github_token):
                     print(f'Found asset: {asset.name}')
                     download_asset(asset, asset.name, github_token)
                     extract_zip(asset.name)
-                    print("=========================================")
+                    print("\u001B[32m=========================================")
                     print("  Dedicated Server Successfully Updated")
-                    print("=========================================")
+                    print("=========================================\u001B[0m")
                     return
         print("\u001B[31mNo matching asset found.\u001B[0m")
 
