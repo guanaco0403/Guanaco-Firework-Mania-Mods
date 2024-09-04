@@ -4,12 +4,12 @@ import os
 import zipfile
 from github import Github
 
-print("")
-print("")
+print(" ")
+print(" ")
 print("\u001B[32m====================================\u001B[0m")
 print("  \u001B[36mGuanaco Auto Server Updater V1.5\u001B[0m")
 print("\u001B[32m====================================\u001B[0m")
-print("")
+print(" ")
 
 def download_asset(asset, asset_name, github_token):
     headers = {
