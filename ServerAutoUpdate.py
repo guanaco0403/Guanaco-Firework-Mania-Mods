@@ -5,7 +5,7 @@ import zipfile
 from github import Github
 
 print("====================================")
-print("  Guanaco Auto Server Updated V1.2")
+print("  \u001B[31mGuanaco Auto Server Updater V1.5\u001B[0m")
 print("====================================")
 
 def download_asset(asset, asset_name, github_token):
