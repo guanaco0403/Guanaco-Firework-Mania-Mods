@@ -4,14 +4,13 @@ import os
 import zipfile
 from github import Github
 
-print("test")
-print("\n")
+print(".")
 print("\u001B[32m====================================\u001B[0m")
 print("  \u001B[36mGuanaco Auto Server Updater V1.5\u001B[0m")
 print("\u001B[32m====================================\u001B[0m")
-print("\n")
 
 def download_asset(asset, asset_name, github_token):
+    print(f'Downloading Asset: {asset_name}...')
     headers = {
         'Authorization': f'token {github_token}',
         'Accept': 'application/octet-stream'
@@ -23,15 +22,17 @@ def download_asset(asset, asset_name, github_token):
             for chunk in response.iter_content(chunk_size=1024):
                 if chunk:
                     file.write(chunk)
-        print(f'Downloaded: {asset_name}')
+        print("u001B[32mDownload Success\u001B[0m")
     else:
-        print(f'Failed to download asset: {response.status_code}')
+        print(f'\u001B[31mFailed to download asset: {response.status_code}\u001B[0m')
         print(response.text)
 
 def extract_zip(file_path):
+    print("Extracting Archive...")
     with zipfile.ZipFile(file_path, 'r') as zip_ref:
         extract_path = os.path.dirname(os.path.abspath(__file__))
         zip_ref.extractall(extract_path)
+        print("u001B[32mExtraction Success\u001B[0m")
         print(f'Extracted files to: {extract_path}')
 
 def main(github_token):
@@ -49,7 +50,7 @@ def main(github_token):
         repo = g.get_repo(f"{repo_owner}/{repo_name}")
         print(f'Accessed repository: {repo.full_name}')
     except Exception as e:
-        print(f'Error accessing repository: {e}')
+        print(f'\u001B[31mError accessing repository: {e}\u001B[0m')
         return
 
     # Get releases
@@ -57,7 +58,7 @@ def main(github_token):
         releases = repo.get_releases()
         print(f'Found {releases.totalCount} releases')
     except Exception as e:
-        print(f'Error fetching releases: {e}')
+        print(f'\u001B[31mError fetching releases: {e}\u001B[0m')
         return
 
     if releases:
@@ -71,7 +72,7 @@ def main(github_token):
                     print("  Dedicated Server Successfully Updated")
                     print("=========================================")
                     return
-        print('No matching asset found.')
+        print("\u001B[31mNo matching asset found.\u001B[0m")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Download and update Dedicated Server from GitHub')
